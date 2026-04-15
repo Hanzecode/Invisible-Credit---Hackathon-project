@@ -124,7 +124,7 @@ Or use any React setup that supports JSX — the component is a default export.
 1. **Hook** — Tell Elena's story. She borrows ₱5,000 every morning.
 2. **Problem** — 34 million Filipinos are credit-invisible.
 3. **Intake form** — Enter Elena's data: market vendor, Cebu, GCash active, pays Meralco on time.
-4. **Psychometric quiz** — Run the 5 questions. Show Claude interpreting her answers.
+4. **Psychometric quiz** — Run the 5 questions. Show GEMINI interpreting her answers.
 5. **Score reveal** — 71/100 — Approved. Show the 3 reason codes.
 6. **Impact** — At 15% annual interest instead of 240%.
 
