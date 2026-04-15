@@ -12,7 +12,7 @@ An AI-powered credit scoring platform that enables Rural and Cooperative Banks (
 
 - Python 3.11+
 - Node.js 18+ (for the React frontend)
-- An Anthropic API key
+- An GEMINI API key
 
 ### 2. Backend Setup
 
